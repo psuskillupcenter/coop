@@ -1,3 +1,8 @@
-# PSUCOOP Proposal Website
+# PSUCOOP Project Proposal
 
-Bright blue themed GitHub Pages-ready website for the PSUCOOP project proposal.
+เว็บไซต์ข้อเสนอโครงการพัฒนาระบบ Google Apps Script สำหรับสหกรณ์ออมทรัพย์มหาวิทยาลัยสงขลานครินทร์
+
+## GitHub Pages
+วางไฟล์ `index.html` และโฟลเดอร์ `assets` ที่ root ของ repository `coop` จากนั้นเลือก Settings > Pages > Deploy from a branch > main > /(root).
+
+URL: https://psuskillupcenter.github.io/coop/
